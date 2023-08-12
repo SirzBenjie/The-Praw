@@ -24,6 +24,12 @@ export default function RewardsDeckPage() {
         <li className="text-light">When a reward card is discarded, it is discarded to the reward deck discard pile. Any abilities that affect the discard pile do not affect this discard pile.</li>
         <li className="text-light">If the reward deck is empty, shuffle its discard pile to make a new reward deck. If the reward deck discard pile is also empty, then players cannot draw reward cards.</li>
       </ul>
+      <h3>Common Rewards</h3>
+      <ul>
+        <li className="text-light">This sub-variant shuffles the reward deck in with the main deck for added chaos.</li>
+        <li className="text-light">During setup, shuffle the reward deck in with the cosmic deck.</li>
+        <li className="text-light">If playing with the Ultra Rewards sub-variant, The Praw reccomends players come to an agreement before the game regarding what should happen when multiple ultra reward cards would be drawn when drawing from the deck.</li>
+      </ul>
       <h3>Ultra Rewards</h3>
       <ul>
         <li className="text-light">This sub-variant, introduced in Cosmic Odyssey, adds a few even-stronger reward cards to the reward deck that have slightly different rules.</li>
